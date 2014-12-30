@@ -16,5 +16,10 @@ namespace DataCopy
         {
             InitializeComponent();
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            // Added a comment to force commit
+        }
     }
 }
